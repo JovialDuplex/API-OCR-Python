@@ -1,5 +1,8 @@
 easyocr
-numpy
+simple-lama-inpainting
 opencv-python
 fastapi
+uvicorn
+numpy
 typing
+
